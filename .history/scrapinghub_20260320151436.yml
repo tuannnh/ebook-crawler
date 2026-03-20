@@ -1,5 +1,0 @@
-projects:
-  default: your_project_id
-
-requirements:
-  file: requirements.txt

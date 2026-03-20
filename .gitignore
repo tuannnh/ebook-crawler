@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+
+# Build
+build/
+dist/
+
+# Scrapy
+.scrapy/
+
+# Output / generated files
+output/
+*.epub
+*.mobi
+
+# Env / secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+.history/
+
+# OS
+.DS_Store
+Thumbs.db
